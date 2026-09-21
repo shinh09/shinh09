@@ -8,6 +8,7 @@ Hi, I'm **Shinhyung** 👋
 ## Projects
 
 - **[N트로피](https://github.com/NtropyKB7/server)** | 플랫폼 종사자·N잡러를 위한 지속가능한 자산관리 서비스 | 백엔드
+- **[타지살이](https://github.com/shinh09/tajisari)** | 해외 생활을 시작하는 청년들을 위한 정착 준비 지원 서비스 | 백엔드
 - **[LendMark](https://github.com/shinh09/LendMark)** | 서울과기대 강의실 조회 및 예약 서비스 | 안드로이드
 - **[BDP](https://github.com/shinh09/BigData_Project_Gentrification)** | Hadoop 기반 SNS 데이터 분석을 통한 젠트리피케이션 상관관계 분석 | 데이터 분석
 - **[STAR](https://github.com/shinh09/STAR)** | 서울과기대 강의시간표 기반 빈 강의실 조회 및 예약 웹 서비스 | 풀스택
