@@ -7,6 +7,7 @@ Hi, I'm **Shinhyung** 👋
 
 ## Projects
 
+- **[찐막](https://github.com/prgrms-be-adv-devcourse/beadv8_8_AHJB_BE)** | 경매 기반 이커머스 플랫폼 | 백엔드
 - **[N트로피](https://github.com/NtropyKB7/server)** | 플랫폼 종사자·N잡러를 위한 지속가능한 자산관리 서비스 | 백엔드
 - **[타지살이](https://github.com/shinh09/tajisari)** | 해외 생활을 시작하는 청년들을 위한 정착 준비 지원 서비스 | 백엔드
 - **[LendMark](https://github.com/shinh09/LendMark)** | 서울과기대 강의실 조회 및 예약 서비스 | 안드로이드
@@ -20,6 +21,7 @@ Hi, I'm **Shinhyung** 👋
 ## Certificates
 
 - SQLD (SQL Developer) | 한국데이터산업진흥원
+- ADsP (데이터분석준전문가) | 한국데이터산업진흥원
 - 정보처리기사 | 한국산업인력공단
 
 
